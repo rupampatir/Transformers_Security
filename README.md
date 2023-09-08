@@ -1,6 +1,6 @@
 # Reading List for papers on Transformers and/or IDS
 
-### Transformers/LLMs
+### Transformers
 
 2017, NIPS, [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
@@ -27,7 +27,7 @@
 
 2021, (Journal) Mobile Networks and Applications, [Towards a Standard Feature Set for Network Intrusion Detection System Datasets](https://link.springer.com/article/10.1007/s11036-021-01843-0)
 
-### Transformers/LLMs + IDS
+### Transformers + IDS
 
 2023, arxiv, [FlowTransformer: A Transformer Framework for Flow-based Network Intrusion Detection Systems](https://arxiv.org/pdf/2304.14746v1.pdf)
 
