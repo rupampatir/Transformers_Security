@@ -64,4 +64,4 @@
 
 2023, USENIX, [An Efficient Design of Intelligent Network Data Plane](https://www.usenix.org/system/files/sec23summer_422-zhuo_guangmeng-prepub.pdf)
 
-2023, S&P, [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179404](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179404)
+2023, S&P, [Mew: Enabling Large-Scale and Dynamic Link-Flooding Defenses on Programmable Switches](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179404)
