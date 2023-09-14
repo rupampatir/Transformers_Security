@@ -60,7 +60,7 @@
 
 2023, Computer & Security, [Network intrusion detection based on n-gram frequency and time-aware transformer](https://www.sciencedirect.com/science/article/abs/pii/S0167404823000810?via%3Dihub)
 
-### Miscellenous
+### Miscellaneous
 
 2023, USENIX, [An Efficient Design of Intelligent Network Data Plane](https://www.usenix.org/system/files/sec23summer_422-zhuo_guangmeng-prepub.pdf)
 
