@@ -1,6 +1,6 @@
 # Reading List for papers on Transformers and/or IDS
 
-### Transformers
+### Transformers/LLMs
 
 2017, NIPS, [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
@@ -15,6 +15,8 @@
 
 
 2020, arxiv, [TabTransformer: Tabular Data Modeling Using Contextual Embeddings](https://www.semanticscholar.org/reader/a2ec47b9bcc95d2456a8a42199233e5d9129ef18)
+
+2023, arxiv, [https://arxiv.org/pdf/2309.01029.pdf](https://arxiv.org/pdf/2309.01029.pdf)
 
 
 ### Intrusion Detection Systems
@@ -52,11 +54,14 @@
 
 2022, SIGKDD, [MT-FlowFormer: A Semi-Supervised Flow Transformer for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539314)
 
-
 2022, International Conference on Information & Knowledge Management,[An Extreme Semi-supervised Framework Based on Transformer for Network Intrusion Detection](https://dl.acm.org/doi/10.1145/3511808.3557549)
-
 
 2022, CoNEXT Student Workshop, [Flow-based network intrusion detection based on BERT masked language model](https://dl.acm.org/doi/10.1145/3565477.3569152)
 
-
 2023, Computer & Security, [Network intrusion detection based on n-gram frequency and time-aware transformer](https://www.sciencedirect.com/science/article/abs/pii/S0167404823000810?via%3Dihub)
+
+### Miscellenous
+
+2023, USENIX, [An Efficient Design of Intelligent Network Data Plane](https://www.usenix.org/system/files/sec23summer_422-zhuo_guangmeng-prepub.pdf)
+
+2023, S&P, [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179404](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179404)
